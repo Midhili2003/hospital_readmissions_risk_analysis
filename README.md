@@ -6,6 +6,7 @@ Hospitals face financial penalties when patients are readmitted within 30 days o
 
 ## Data & Tools:
 - **Dataset**: Diabetes 130-US Hospitals for Years 1999-2008 (UCI Machine Learning Repository, CC BY 4.0). ~100,000 patient encounters across 130 hospitals, 1999-2008
+- **Source Link**: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 - **Database**: MySQL Workbench
 - **Techniques Used**: CTEs, Window Functions (RANK, NTILE), CASE-based risk tiering, correlated subqueries, and multi-table joins
 
