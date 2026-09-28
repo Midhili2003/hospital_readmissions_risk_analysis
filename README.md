@@ -1,5 +1,4 @@
 # <p align="center">Hospital Readmissions Risk Analysis</p>
-# <p align="center">![Pic](https://cdn-icons-png.flation.com/512/1802/1802511.png)</p>
 
 ## Business Problem:
 
